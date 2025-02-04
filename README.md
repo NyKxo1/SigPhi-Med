@@ -13,7 +13,7 @@ To set up the environment, refer to [TinyLLaVA Factory](https://github.com/TinyL
 
 ## Model Weights
 - [Huggingface](https://huggingface.co/nykxo99/SigPhi-Med)
-- 
+
 ## Datasets
 SigPhi-Med is trained and evaluated on the following biomedical multimodal datasets:
 
