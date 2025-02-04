@@ -9,8 +9,11 @@ SigPhi-Med is a lightweight vision-language model designed for biomedical applic
 </p>
 
 ## Installation
-To set up the environment, refer to [TinyLLaVA Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) and `requirements.txt` file:
+To set up the environment, refer to [TinyLLaVA Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) and `requirements.txt` file.
 
+## Model Weights
+- [Huggingface](https://huggingface.co/nykxo99/SigPhi-Med)
+- 
 ## Datasets
 SigPhi-Med is trained and evaluated on the following biomedical multimodal datasets:
 
